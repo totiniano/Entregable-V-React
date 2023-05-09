@@ -1,0 +1,30 @@
+.formPoke {
+    margin-top: 95px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.formPoke__input {
+    flex-grow: 1;
+    margin-right: 10px;
+    left: 15px;
+    margin-top: 10px;
+    height: 28px;
+    position: absolute;
+}
+
+.formPoke__button {
+    background-color: #d93f3f;
+    margin-top: 10px;
+    margin-left: 170px;
+    height: 28px;
+    width: 80px;
+    border: none;
+}
+
+.formPoke__select {
+    height: 28px;
+    margin-top: 10px;
+    width: 150px;
+}
